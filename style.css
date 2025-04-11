@@ -21,9 +21,10 @@ h1 {
     font-size: 55px;
     padding-top: 12%;
     text-align: center;
+    display: inline-block;
   }
  
-  @media (max-width:1800px){
+  @media (min-width:650px){
    
   #carat-weight{
     border-radius: 10%;
@@ -102,7 +103,7 @@ h1 {
     padding: 0;
   }
 
-  }
+  
   #cut-explain{
     font-size: 17;
     float: left;

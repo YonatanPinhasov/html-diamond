@@ -1,5 +1,5 @@
 
-@media (min-width:1400px){
+
 h1 {
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
@@ -211,4 +211,111 @@ h1 {
     position:absolute;
     top: 225%;
     }
+ @media (max-width:680px){
+  h1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 38%;
+  }
+
+  span{
+    color: lightblue ;
+    font-size: 55px;
+  }
+
+  .diamond{
+    position: absolute;
+    left: 15%;
+  }
+  #c{
+   
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 15%;
+    left: -5%;
+    padding: 0;
+    margin: 0;
+  }
+  #five{
+    
+    top: 435%;
+    left: 29%;
+    font-size: 50px;
+  }
+  #confident-explain{
+    top: 455%;
+    left:34% ;
+  }
+  h4{
+ 
+    top: 445%;
+    left: 44%;
  }
+ #confident-believe{
+  left:25%;
+  top:408% ;
+ }
+ #four{
+  top: 360%;
+  left: 39%;
+  font-size: 50px;
+}
+#clarity-imperfection{
+  top: 319%;
+  left: 23%;
+}
+#clarity-explain{
+
+  top: 367%;
+  left: 34%;
+}
+#carat-weight{
+  top: 70%;
+  left: 37%;
+}
+
+ #carat-explain{
+  top: 114%;
+  left: 23%;
+
+  }
+#one{
+  top: 110%;
+  left: 50%;
+  font-size: 50px;
+}
+
+#color-tint{
+  top: 151%;
+  left: 30%;
+}
+#color-explain{
+  top: 200%;
+  left: 40%;
+}
+#two{
+  top: 191%;
+  left: 48%;
+  font-size: 50px;
+}
+
+ #cut-shape{
+  top: 240%;
+  left: 19%;
+}
+#cut-explain{
+  top: 282%;
+  left: 39%;
+}
+#three{
+  top: 275%;
+  left: 51%;
+  font-size: 50px;
+}
+footer{
+  top: 485%;
+  }
+}
